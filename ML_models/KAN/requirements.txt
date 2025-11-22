@@ -1,0 +1,4 @@
+torch == '2.7.0+cu118'
+scikit-learn == 1.7.1
+numpy == 1.26.4
+pykan
