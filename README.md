@@ -64,8 +64,8 @@ source env/bin/activate   # Linux/macOS
 
 pip install --upgrade pip
 pip install -r requirements.txt
-
-## Contributors
+```
+### **Contributors**
 
 This section lists the authors of each script in this repository.
 Model                Author
@@ -81,12 +81,12 @@ KAN              S.P. Magesh
 Fourier           A. Deepu
 
 
-## Citation
+### **Citation**
 
 If you use this code, please cite:
 Citation A. Manchanda et al 2025 ApJS 281 35
 
-## Contact
+### **Contact**
 
 For questions or suggestions, contact:
 Aditi Manchanda – aditii18m@gmail.com
