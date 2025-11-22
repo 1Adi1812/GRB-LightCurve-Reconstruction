@@ -76,7 +76,7 @@ Attention_UNet    N. Indoriya
 GP_RF              S. Naqi
 Bi-MAMBA          A. Kaushal
 CGAN              A. Kaushal
-Sarimax           A. Deepu
+Sarimax           A. Deepu, K. Sil
 KAN              S.P. Magesh
 Fourier           A. Deepu
 
